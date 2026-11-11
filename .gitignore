@@ -1,0 +1,43 @@
+# Clangd
+compile_commands.json
+
+# General CMake, Build System Generated Files
+/build/
+/build-*/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compilation Artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app/
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+core
+core.*
+
+# Nix
+.direnv/
+
+# Emacs
+*~
+\#*\#
+.\#*
