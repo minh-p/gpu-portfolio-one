@@ -17,6 +17,10 @@ I'll be primarily using GoogleTest style guide.
 | C++ types         | PascalCase | `GpuRenderer`      |
 | CMake targets     | snake_case | `week_01_triangle` |
 
+## How to Use Resources
+I will prefer reading hard text which includes documentation or textbook over looking at any examples while beginning my initial rounds of implementations.
+Only when I'm derailing from deadline would I look at an example. I am not going to use AI to provide example code or do the project for me in order to produce documentation artifacts as learning log.
+
 ## Curriculum
 Here's the AI-generated curriculum.
 
