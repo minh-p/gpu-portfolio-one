@@ -1,5 +1,8 @@
+#include "library.h"
 #include <iostream>
+
 int main() {
-  std::cout << "Hello World\n";
-  return 0;
+    int sum = my_sum(10, 20);
+    std::cout << sum << std::endl;
+    return 0;
 }
