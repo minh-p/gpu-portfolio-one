@@ -19,7 +19,7 @@ I'll be primarily using GoogleTest style guide.
 
 ## How to Use Resources
 I will prefer reading hard text which includes documentation or textbook over looking at any examples while beginning my initial rounds of implementations.
-Only when I'm derailing from deadline would I look at an example. I am not going to use AI to provide example code or do the project for me in order to produce documentation artifacts as learning log.
+Only when I'm derailing from deadline would I look at an example. I am going to try to not use AI to provide a large chunk of example code or do the project for me in order to produce documentation artifacts as learning log.
 
 ## Curriculum
 Here's the AI-generated curriculum.

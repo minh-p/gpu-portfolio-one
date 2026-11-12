@@ -33,3 +33,8 @@ Scope was another interesting concept, the explanation confused me a bit.
 It looks like it decides how other things that depends on this target
 would inherit its properties. I would have to get more experience understanding
 what these dependents are.
+
+### Resource Utilization
+I changed my mind on the way I would utilize resources. I won't copy a large chunk of code
+but because of my incompetency I have to ask or search for examples such as how to utilize the appstate parameter.
+It's also been sometime since I've used C/C++ so the syntax for pointers and address is a bit of a blur.
