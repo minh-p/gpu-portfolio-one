@@ -1,5 +1,6 @@
 # Clangd
 compile_commands.json
+.cache
 
 # General CMake, Build System Generated Files
 build/

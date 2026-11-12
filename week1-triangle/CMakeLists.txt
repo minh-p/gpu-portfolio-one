@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 4.4)
 
 project(Triangle)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+#clangd
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 find_package(SDL3 REQUIRED CONFIG REQUIRED COMPONENTS SDL3-shared)
 
@@ -28,6 +30,10 @@ set_target_properties(renderer PROPERTIES
 add_executable(triangle)
 target_sources(triangle PRIVATE src/main.cc)
 target_link_libraries(triangle PRIVATE renderer)
+
+add_executable(learning_texture)
+target_sources(learning_texture PRIVATE src/learning_texture.cc)
+target_link_libraries(learning_texture PRIVATE renderer)
 
 find_package(GTest REQUIRED)
 include(GoogleTest)

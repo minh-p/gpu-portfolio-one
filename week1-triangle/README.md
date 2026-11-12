@@ -16,6 +16,9 @@ One additional thing I learned was to set hint to wayland which is useful becaus
 
 Right now I just need to get comfortable with SDL3 documentation. I tried making a popup window and I know how to get started with pop up menus or tool tips.
 
+Then, I made textures my main subject of study. I see them as data packets that describe an image that's handled by the GPU.
+Right now I'm still messing around with SDL3's Render (2d GPU) API.
+
 ## 11/11/2026
 Currently, I'm primarily focused on setting up CMake. Previously, I've
 used an LLM to setup CMake because I want to get into the nitty gritty
