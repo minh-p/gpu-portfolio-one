@@ -19,6 +19,9 @@ Right now I just need to get comfortable with SDL3 documentation. I tried making
 Then, I made textures my main subject of study. I see them as data packets that describe an image that's handled by the GPU.
 Right now I'm still messing around with SDL3's Render (2d GPU) API.
 
+My rusty C++ skills made me forget to free the created texture and my computer ended up crashing one time.
+I think it's best to run programs with a task manager utilty like btop now.
+
 ## 11/11/2026
 Currently, I'm primarily focused on setting up CMake. Previously, I've
 used an LLM to setup CMake because I want to get into the nitty gritty
