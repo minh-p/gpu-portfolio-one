@@ -2,9 +2,9 @@
 compile_commands.json
 
 # General CMake, Build System Generated Files
-/build/
-/build-*/
-/cmake-build-*/
+build/
+build-*/
+cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
