@@ -21,6 +21,10 @@ I'll be primarily using GoogleTest style guide.
 I will prefer reading hard text which includes documentation or textbook over looking at any examples while beginning my initial rounds of implementations.
 Only when I'm derailing from deadline would I look at an example. I am going to try to not use AI to provide a large chunk of example code or do the project for me in order to produce documentation artifacts as learning log.
 
+## A Typical Day
+A typical day could include me trying to replicate what I did yesterday in separate branch then doing some research and implementing something new.
+Specifically what I mean by replicating is that I would try to reimplement the parts I think I wanna redo to simply remember how to use the certain technologies.
+
 ## Curriculum
 Here's the AI-generated curriculum.
 
