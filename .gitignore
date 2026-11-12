@@ -41,3 +41,6 @@ core.*
 *~
 \#*\#
 .\#*
+
+# Personal Practice Directory
+/practice/
