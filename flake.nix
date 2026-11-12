@@ -16,6 +16,7 @@
           cmake
           ninja
           pkg-config
+          gtest
 
           # GPU development
           sdl3

@@ -1,0 +1,4 @@
+#ifndef WEEK1_TRIANGLE_INCLUDE_RENDERER_H_
+#define WEEK1_TRIANGLE_INCLUDE_RENDERER_H_
+int my_sum(int, int);
+#endif
