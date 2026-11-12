@@ -8,6 +8,14 @@ With that said in the first week, I believe leveraging purely from the [official
 
 Development officially begins 11/11/2026
 
+## 11/12/2026
+I spent the first 90 minutes retracing what I did yesterday because I felt I was overly dependent on AI for looking resources.
+But in any case, I basically recreated what I did yesterday including CMake configuration and setting up SDL3. These demonstration files are stored privately inside the practice directory.
+
+One additional thing I learned was to set hint to wayland which is useful because I don't want to have to pass the wayland flag every time.
+
+Right now I just need to get comfortable with SDL3 documentation. I tried making a popup window and I know how to get started with pop up menus or tool tips.
+
 ## 11/11/2026
 Currently, I'm primarily focused on setting up CMake. Previously, I've
 used an LLM to setup CMake because I want to get into the nitty gritty
