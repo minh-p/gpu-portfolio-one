@@ -3,12 +3,10 @@
 #include <SDL3/SDL.h>
 
 struct AppState {
-    SDL_Window *window;
-    SDL_Window *popup_window;
-    SDL_Renderer *popup_renderer;
-    SDL_Renderer *renderer;
-    AppState()
-        : window{nullptr}, renderer{nullptr}, popup_window{nullptr},
-          popup_renderer{nullptr} {}
+    SDL_Window *window = nullptr;
+    SDL_Window *popup_window = nullptr;
+    SDL_Renderer *popup_renderer = nullptr;
+    SDL_Renderer *renderer = nullptr;
+    SDL_Texture *rect_texture = nullptr;
 };
 #endif
