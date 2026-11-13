@@ -22,6 +22,14 @@ Right now I'm still messing around with SDL3's Render (2d GPU) API.
 My rusty C++ skills made me forget to free the created texture and my computer ended up crashing one time.
 I think it's best to run programs with a task manager utilty like btop now.
 
+![Disappearing Rectangles Simple Texture](../showcases-media/2026-11-12.gif)
+
+One important point I guess about texture is this:
+
+With the destination and source rectangles being *nullptrs*, the texture will be scaled up to that of the window
+so if the texture's resolution is half that of the window then the texture will be scaled up losing some
+resolution.
+
 ## 11/11/2026
 Currently, I'm primarily focused on setting up CMake. Previously, I've
 used an LLM to setup CMake because I want to get into the nitty gritty
